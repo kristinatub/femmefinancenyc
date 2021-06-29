@@ -1,0 +1,12 @@
+#title {
+    text-align: center;
+    color: #a9436d;
+    font-family: 'Courier New', Courier, monospace;
+}
+#headshot {
+    display: block;
+    margin:auto;
+}
+body {
+    background-color: #fff4f3;
+}
